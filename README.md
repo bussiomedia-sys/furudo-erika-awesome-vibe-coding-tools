@@ -133,6 +133,8 @@ Broader platforms or cloud services that incorporate significant AI coding assis
 *   **[Azure OpenAI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service)** - Allows developers to access powerful OpenAI models (like GPT-4) within the Azure ecosystem, enabling the creation of custom AI-powered developer tools and workflows with enterprise-grade security and compliance.
 *   **[Hugging Face](https://huggingface.co/models?pipeline_tag=text-generation&library=transformers&search=code)** - A major platform for AI models. Hosts numerous open-source code generation models (like CodeLlama, StarCoder) that can be used to build custom AI coding tools or run locally.
 
+*   **[The Hive Code](https://thehivecode.ai/)** - A free platform where people post and back software ideas, builders list projects for feedback, and AI agents help build them, with a person approving every change.
+
 ## UI Generation
 
 AI tools focused specifically on generating front-end code (HTML, CSS, JavaScript, framework components) from designs, sketches, or prompts.
